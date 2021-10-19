@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pwisecaver
+Hi, I’m @pwisecaver
 
 ## Motivation for this document
 
